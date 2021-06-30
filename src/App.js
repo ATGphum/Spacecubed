@@ -133,7 +133,7 @@ function Description() {
       </p> 
       <p>
         I believe that I am a great cultural fit, because I love working with and developing connections with 
-        a close-knit community. Ever since watching a netflix show called "Startup", I have developed an interest in startup culture, and would love to see startups up close in a real co-working environment.
+        a close-knit community. Ever since I watched a netflix show called "Startup", I have developed a strong interest in startup culture, and would love to see startups up close in a real co-working environment.
         The prospect of being able to both experience this and work to directly improve the startup culture across Perth greatly excites me.
       </p>
       <p>
@@ -176,12 +176,12 @@ function SkillBoxes() {
           <li>Music</li>
         </ul>
       </div>
-      <div style={{backgroundColor: "#9ed3e0"}}className="SkillBox">
+      <div style={{backgroundColor: "#67cce4"}}className="SkillBox">
         Contact
         <div className="Contacts">
           <p>jeremyvuong.dshs@gmail.com</p>
           <p>0405614518</p>
-          <a href="https://www.linkedin.com/in/jeremy-vuong-265423147/" rel="noreferrer">
+          <a className="Linkedin" href="https://www.linkedin.com/in/jeremy-vuong-265423147/" rel="noreferrer">
             LinkedIn
           </a>
         </div>
