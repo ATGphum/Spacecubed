@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/spacecubed/static/css/main.f9a38c93.chunk.css",
+    "main.js": "/spacecubed/static/js/main.ed4826e3.chunk.js",
+    "main.js.map": "/spacecubed/static/js/main.ed4826e3.chunk.js.map",
+    "runtime-main.js": "/spacecubed/static/js/runtime-main.7a692dfb.js",
+    "runtime-main.js.map": "/spacecubed/static/js/runtime-main.7a692dfb.js.map",
+    "static/js/2.3ebf3584.chunk.js": "/spacecubed/static/js/2.3ebf3584.chunk.js",
+    "static/js/2.3ebf3584.chunk.js.map": "/spacecubed/static/js/2.3ebf3584.chunk.js.map",
+    "static/js/3.0be49364.chunk.js": "/spacecubed/static/js/3.0be49364.chunk.js",
+    "static/js/3.0be49364.chunk.js.map": "/spacecubed/static/js/3.0be49364.chunk.js.map",
+    "index.html": "/spacecubed/index.html",
+    "static/css/main.f9a38c93.chunk.css.map": "/spacecubed/static/css/main.f9a38c93.chunk.css.map",
+    "static/js/2.3ebf3584.chunk.js.LICENSE.txt": "/spacecubed/static/js/2.3ebf3584.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/spacecubed/static/media/spacecubed.b86202e3.jpg",
+    "static/media/logo.6ce24c58.svg": "/spacecubed/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a692dfb.js",
+    "static/js/2.3ebf3584.chunk.js",
+    "static/css/main.f9a38c93.chunk.css",
+    "static/js/main.ed4826e3.chunk.js"
+  ]
+}
