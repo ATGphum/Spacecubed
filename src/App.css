@@ -102,7 +102,7 @@
   margin-bottom: auto;
   font-family: Courier, Arial, Helvetica, sans-serif;
   font-weight: 700;
-  color: white;
+  color: #e4588e;
 }
 
 .Logo {
@@ -162,7 +162,7 @@
 }
 
 .Contacts {
-  text-align: center;
+  text-align: left;
   font-size: 1rem;
   font-weight: 300;;
   margin-right: auto;
