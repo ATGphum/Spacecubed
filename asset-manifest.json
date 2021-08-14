@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/onlinecoverletter/static/css/main.9e9fd87a.chunk.css",
-    "main.js": "/onlinecoverletter/static/js/main.6279da89.chunk.js",
-    "main.js.map": "/onlinecoverletter/static/js/main.6279da89.chunk.js.map",
+    "main.css": "/onlinecoverletter/static/css/main.c49ec338.chunk.css",
+    "main.js": "/onlinecoverletter/static/js/main.b2321d4e.chunk.js",
+    "main.js.map": "/onlinecoverletter/static/js/main.b2321d4e.chunk.js.map",
     "runtime-main.js": "/onlinecoverletter/static/js/runtime-main.b5f8b487.js",
     "runtime-main.js.map": "/onlinecoverletter/static/js/runtime-main.b5f8b487.js.map",
     "static/js/2.a650ee8e.chunk.js": "/onlinecoverletter/static/js/2.a650ee8e.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.2b91033b.chunk.js": "/onlinecoverletter/static/js/3.2b91033b.chunk.js",
     "static/js/3.2b91033b.chunk.js.map": "/onlinecoverletter/static/js/3.2b91033b.chunk.js.map",
     "index.html": "/onlinecoverletter/index.html",
-    "static/css/main.9e9fd87a.chunk.css.map": "/onlinecoverletter/static/css/main.9e9fd87a.chunk.css.map",
+    "static/css/main.c49ec338.chunk.css.map": "/onlinecoverletter/static/css/main.c49ec338.chunk.css.map",
     "static/js/2.a650ee8e.chunk.js.LICENSE.txt": "/onlinecoverletter/static/js/2.a650ee8e.chunk.js.LICENSE.txt",
     "static/media/App.css": "/onlinecoverletter/static/media/coworking.8190460f.jpg",
     "static/media/logo.6ce24c58.svg": "/onlinecoverletter/static/media/logo.6ce24c58.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.b5f8b487.js",
     "static/js/2.a650ee8e.chunk.js",
-    "static/css/main.9e9fd87a.chunk.css",
-    "static/js/main.6279da89.chunk.js"
+    "static/css/main.c49ec338.chunk.css",
+    "static/js/main.b2321d4e.chunk.js"
   ]
 }
