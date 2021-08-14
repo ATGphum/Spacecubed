@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/spacecubed/static/css/main.f9a38c93.chunk.css",
-    "main.js": "/spacecubed/static/js/main.33e64702.chunk.js",
-    "main.js.map": "/spacecubed/static/js/main.33e64702.chunk.js.map",
-    "runtime-main.js": "/spacecubed/static/js/runtime-main.f23c4f03.js",
-    "runtime-main.js.map": "/spacecubed/static/js/runtime-main.f23c4f03.js.map",
-    "static/js/2.a650ee8e.chunk.js": "/spacecubed/static/js/2.a650ee8e.chunk.js",
-    "static/js/2.a650ee8e.chunk.js.map": "/spacecubed/static/js/2.a650ee8e.chunk.js.map",
-    "static/js/3.2b91033b.chunk.js": "/spacecubed/static/js/3.2b91033b.chunk.js",
-    "static/js/3.2b91033b.chunk.js.map": "/spacecubed/static/js/3.2b91033b.chunk.js.map",
-    "index.html": "/spacecubed/index.html",
-    "static/css/main.f9a38c93.chunk.css.map": "/spacecubed/static/css/main.f9a38c93.chunk.css.map",
-    "static/js/2.a650ee8e.chunk.js.LICENSE.txt": "/spacecubed/static/js/2.a650ee8e.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/spacecubed/static/media/spacecubed.b86202e3.jpg",
-    "static/media/logo.6ce24c58.svg": "/spacecubed/static/media/logo.6ce24c58.svg"
+    "main.css": "/onlinecoverletter/static/css/main.8376c2d1.chunk.css",
+    "main.js": "/onlinecoverletter/static/js/main.33e64702.chunk.js",
+    "main.js.map": "/onlinecoverletter/static/js/main.33e64702.chunk.js.map",
+    "runtime-main.js": "/onlinecoverletter/static/js/runtime-main.b5f8b487.js",
+    "runtime-main.js.map": "/onlinecoverletter/static/js/runtime-main.b5f8b487.js.map",
+    "static/js/2.a650ee8e.chunk.js": "/onlinecoverletter/static/js/2.a650ee8e.chunk.js",
+    "static/js/2.a650ee8e.chunk.js.map": "/onlinecoverletter/static/js/2.a650ee8e.chunk.js.map",
+    "static/js/3.2b91033b.chunk.js": "/onlinecoverletter/static/js/3.2b91033b.chunk.js",
+    "static/js/3.2b91033b.chunk.js.map": "/onlinecoverletter/static/js/3.2b91033b.chunk.js.map",
+    "index.html": "/onlinecoverletter/index.html",
+    "static/css/main.8376c2d1.chunk.css.map": "/onlinecoverletter/static/css/main.8376c2d1.chunk.css.map",
+    "static/js/2.a650ee8e.chunk.js.LICENSE.txt": "/onlinecoverletter/static/js/2.a650ee8e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/onlinecoverletter/static/media/spacecubed.b86202e3.jpg",
+    "static/media/logo.6ce24c58.svg": "/onlinecoverletter/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f23c4f03.js",
+    "static/js/runtime-main.b5f8b487.js",
     "static/js/2.a650ee8e.chunk.js",
-    "static/css/main.f9a38c93.chunk.css",
+    "static/css/main.8376c2d1.chunk.css",
     "static/js/main.33e64702.chunk.js"
   ]
 }
