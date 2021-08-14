@@ -13,43 +13,43 @@ export default function SkillBoxes() {
   
     return (
       <div input ref={boxRef} className="SkillBoxes">
-        <div style={{backgroundColor: "#e4588e"}}className="SkillBox">
+        <div style={{backgroundColor: "#01204b"}}className="SkillBox">
           HTML
         </div>
-        <div style={{backgroundColor: "#ef9e44"}}className="SkillBox">
+        <div style={{backgroundColor: "#9dd317"}}className="SkillBox">
           CSS
         </div>
-        <div style={{backgroundColor: "#b4cc32"}}className="SkillBox">
+        <div style={{backgroundColor: "#01204b"}}className="SkillBox">
           Javascript
         </div>
-        <div style={{backgroundColor: "#67cce4"}}className="SkillBox">
+        <div style={{backgroundColor: "#9dd317"}}className="SkillBox">
           C#
         </div>
-        <div style={{backgroundColor: "#ef9e44"}}className="SkillBox">
+        <div style={{backgroundColor: "#01204b"}}className="SkillBox">
           Teamwork
         </div>
-        <div style={{backgroundColor: "#b4cc32"}}className="SkillBox">
+        <div style={{backgroundColor: "#9dd317"}}className="SkillBox">
           Quick Learner
         </div>
-        <div style={{backgroundColor: "#67cce4"}}className="SkillBox">
+        <div style={{backgroundColor: "#01204b"}}className="SkillBox">
           Passionate
         </div>
-        <div style={{backgroundColor: "#e4588e"}}className="SkillBox">
+        <div style={{backgroundColor: "#9dd317"}}className="SkillBox">
           Reliable
         </div>
-        <div style={{backgroundColor: "#b4cc32"}}className="SkillBox">
+        <div style={{backgroundColor: "#01204b"}}className="SkillBox">
           Friendly
         </div>
-        <div style={{backgroundColor: "#67cce4"}}className="SkillBox">
+        <div style={{backgroundColor: "#9dd317"}}className="SkillBox">
           Startups
         </div>
-        <div style={{backgroundColor: "#e4588e"}}className="SkillBox">
+        <div style={{backgroundColor: "#01204b"}}className="SkillBox">
           Gym
         </div>
-        <div style={{backgroundColor: "#ef9e44"}}className="SkillBox">
+        <div style={{backgroundColor: "#9dd317"}}className="SkillBox">
           Web-Development
         </div> 
-        <div style={{backgroundColor: "#67cce4"}}className="SkillBox">
+        <div style={{backgroundColor: "#01204b"}}className="SkillBox">
           Contact
           <div className="Contacts">
             <p>jeremyvuong.dshs@gmail.com</p>

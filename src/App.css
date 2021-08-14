@@ -102,11 +102,11 @@
   margin-bottom: auto;
   font-family: Courier, Arial, Helvetica, sans-serif;
   font-weight: 700;
-  color: #e4588e;
+  color: #01204b;
 }
 
 .Logo {
-  background-image:url('./spacecubed.jpg');
+  background-image:url('./companylogo.png');
   background-attachment:inherit;
   background-repeat: no-repeat;
   background-size: contain;
