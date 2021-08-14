@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/onlinecoverletter/static/css/main.8376c2d1.chunk.css",
-    "main.js": "/onlinecoverletter/static/js/main.33e64702.chunk.js",
-    "main.js.map": "/onlinecoverletter/static/js/main.33e64702.chunk.js.map",
+    "main.css": "/onlinecoverletter/static/css/main.9e9fd87a.chunk.css",
+    "main.js": "/onlinecoverletter/static/js/main.3c82e62c.chunk.js",
+    "main.js.map": "/onlinecoverletter/static/js/main.3c82e62c.chunk.js.map",
     "runtime-main.js": "/onlinecoverletter/static/js/runtime-main.b5f8b487.js",
     "runtime-main.js.map": "/onlinecoverletter/static/js/runtime-main.b5f8b487.js.map",
     "static/js/2.a650ee8e.chunk.js": "/onlinecoverletter/static/js/2.a650ee8e.chunk.js",
@@ -10,15 +10,15 @@
     "static/js/3.2b91033b.chunk.js": "/onlinecoverletter/static/js/3.2b91033b.chunk.js",
     "static/js/3.2b91033b.chunk.js.map": "/onlinecoverletter/static/js/3.2b91033b.chunk.js.map",
     "index.html": "/onlinecoverletter/index.html",
-    "static/css/main.8376c2d1.chunk.css.map": "/onlinecoverletter/static/css/main.8376c2d1.chunk.css.map",
+    "static/css/main.9e9fd87a.chunk.css.map": "/onlinecoverletter/static/css/main.9e9fd87a.chunk.css.map",
     "static/js/2.a650ee8e.chunk.js.LICENSE.txt": "/onlinecoverletter/static/js/2.a650ee8e.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/onlinecoverletter/static/media/spacecubed.b86202e3.jpg",
+    "static/media/App.css": "/onlinecoverletter/static/media/coworking.8190460f.jpg",
     "static/media/logo.6ce24c58.svg": "/onlinecoverletter/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b5f8b487.js",
     "static/js/2.a650ee8e.chunk.js",
-    "static/css/main.8376c2d1.chunk.css",
-    "static/js/main.33e64702.chunk.js"
+    "static/css/main.9e9fd87a.chunk.css",
+    "static/js/main.3c82e62c.chunk.js"
   ]
 }
