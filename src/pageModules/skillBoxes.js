@@ -26,19 +26,19 @@ export default function SkillBoxes() {
           C#
         </div>
         <div style={{backgroundColor: "#01204b"}}className="SkillBox">
-          Teamwork
+          React
         </div>
         <div style={{backgroundColor: "#9dd317"}}className="SkillBox">
-          Quick Learner
+          Innovation
         </div>
         <div style={{backgroundColor: "#01204b"}}className="SkillBox">
           Passionate
         </div>
         <div style={{backgroundColor: "#9dd317"}}className="SkillBox">
-          Reliable
+          Python
         </div>
         <div style={{backgroundColor: "#01204b"}}className="SkillBox">
-          Friendly
+          Automation
         </div>
         <div style={{backgroundColor: "#9dd317"}}className="SkillBox">
           Startups

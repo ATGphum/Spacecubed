@@ -39,6 +39,7 @@
 
 .Page {
   padding-bottom: 5%;
+  background-color: rgba(236, 236, 236, 1);
 }
 
 .TopBar {
@@ -116,13 +117,13 @@
 .CoverPage {
   height: auto;
   width: 80%;
-  background-color: rgba(236, 236, 236, 1);
+  background-color: white;
   margin-left: auto;
   margin-right: auto;
-  position: relative;
-  
+  position: relative; 
   font-size: 1.5rem;
   padding: 3em;
+  border-radius: 15px;
 }
 
 .DescriptionHeader {
